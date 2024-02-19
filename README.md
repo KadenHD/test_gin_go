@@ -15,7 +15,7 @@ To run the api.
 ```go build```
 To create an executable of the api.
 
-```md
+```.env
 # Server
 PORT=3000
 
